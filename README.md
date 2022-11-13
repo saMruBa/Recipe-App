@@ -3,6 +3,7 @@
 *--> Recipe is a single page application, Spoonacular is the API used to fetch data and render recipes.*<br/>
 *--> Allows users to search for any kind of recipe.*<br/>
 *--> Detailed instructions on how to prepare the recipe and all the ingredients needed to do so.*
+*--> Used Styled components to add styles to each component and react Motion Library for animation*
 
 ## Project Details
 
